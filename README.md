@@ -1,6 +1,6 @@
 # Spam Email Detection 📧
 
-This repository contains a mini project developed in the 2nd year of our B.Tech program, built by **Tarang Verma**, **Saurabh Kumar Yadav**, and **Harsh Kumar**. The goal of this project is to identify and classify emails as spam or not spam using machine learning techniques.
+This is a mini project developed in the 2nd year of our B.Tech program, by me [**Tarang Verma**] and my two classmates named **Saurabh Kumar Yadav**, and **Harsh Kumar**. The goal of this project is to identify and classify emails as spam or not spam using machine learning techniques.
 
 The repository includes the complete implementation in Python, Jupyter Notebook, dataset, research documentation, project report, and a presentation.
 
